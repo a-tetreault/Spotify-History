@@ -1,2 +1,2 @@
-# spotify-history
+# Spotify-History
 Spotify Extended Streaming History
